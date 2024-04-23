@@ -7,4 +7,4 @@ Data cleaning will constitute the following:
 - Null Values (blank values)
 - Remove Any Columns
 
-To mitigate potential errors (and for peace of mind), we will create a direct duplicate of the layoffs table to work on. 
+To mitigate potential errors (and for peace of mind), we will create a direct copy of the layoffs table to work on. 
