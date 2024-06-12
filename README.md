@@ -15,4 +15,3 @@ We follow our data cleaning with some exploratory data analysis. We will attempt
 - Does the size or stage of the company matter regarding how many or what percentage of workers they lay off?
 - Is it possible with SQL to see how many world layoffs accumulated by month over the several years of the dataset?
 
-- 
