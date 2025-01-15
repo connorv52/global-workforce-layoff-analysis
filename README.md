@@ -13,5 +13,4 @@ We follow our data cleaning with some exploratory data analysis. We will attempt
 - Which industries have the largest number of layoffs in the dataset? Does this depend on the year?
 - Do countries differ as much as industries do in terms of their layoffs?
 - Does the size or stage of the company matter regarding how many or what percentage of workers they lay off?
-- Is it possible with SQL to see how many world layoffs accumulated by month over the several years of the dataset?
-
+- Is it possible to use SQL to calculate the total number of layoffs accumulated each month over several years in the dataset?
