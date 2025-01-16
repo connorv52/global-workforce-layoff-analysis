@@ -2,10 +2,10 @@
 This project utilizes SQL and pgAdmin 4 to rigorously clean and analyze layoff data from companies worldwide. 
 
 Data cleaning will incorporate the following:
-- Remove Duplicates
-- Standardize the Data
-- Null Values (blank values)
-- Remove Any Columns
+- Remove duplicates
+- Standardize the data
+- Null values (blank values)
+- Remove any unnecessary or redundant columns
 
 To mitigate potential errors (and for peace of mind), we will create a direct copy of the layoffs table to work on. 
 
