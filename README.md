@@ -4,7 +4,7 @@ This project utilizes SQL and pgAdmin 4 to rigorously clean, wrangle, and analyz
 Data cleaning will incorporate the following:
 - Remove duplicates
 - Standardize the data
-- Null values (blank values)
+- Investigate null values (blank values)
 - Remove any unnecessary or redundant columns
 
 To mitigate potential errors (and for peace of mind), we will create a direct copy of the layoffs table to work on. 
