@@ -5,7 +5,7 @@ Data cleaning will incorporate the following:
 - Remove duplicates
 - Standardize the data
 - Investigate null values (blank values)
-- Remove any unnecessary or redundant columns
+- Remove any unnecessary or redundant columns from the table
 
 To mitigate potential errors (and for peace of mind), we will create a direct copy of the layoffs table to work on. 
 
